@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadLUISProjectExportFile", "ReadLUISProjectExportFile\ReadLUISProjectExportFile.csproj", "{512A4398-0F6D-477D-AF0D-B0443E2FEED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512A4398-0F6D-477D-AF0D-B0443E2FEED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512A4398-0F6D-477D-AF0D-B0443E2FEED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512A4398-0F6D-477D-AF0D-B0443E2FEED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512A4398-0F6D-477D-AF0D-B0443E2FEED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DD233F-FC23-43C3-85C4-FF2262F035BE}
+	EndGlobalSection
+EndGlobal
